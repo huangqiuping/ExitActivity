@@ -8,7 +8,8 @@ import android.view.View;
 import android.widget.Button;
 
 /**
- * Created by dvb-sky on 2016/7/8.
+ * Created by Terry on 2016/7/8.
+ * email: hqp770@126.com
  */
 public class ExitActivity extends AppCompatActivity {
     @Override

@@ -9,7 +9,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
 /**
- * Created by dvb-sky on 2016/7/8.
+ * Created by Terry on 2016/7/8.
  */
 public class BaseActivity extends AppCompatActivity {
     public static final String EXIT_ACTION = "exit.action";

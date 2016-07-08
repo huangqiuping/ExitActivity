@@ -9,6 +9,10 @@ import android.widget.Toast;
 
 import java.util.Locale;
 
+/**
+ * Created by Terry on 2016/7/8.
+ * email: hqp770@126.com
+ */
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     @Override

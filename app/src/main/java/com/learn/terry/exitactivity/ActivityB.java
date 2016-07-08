@@ -10,7 +10,8 @@ import android.widget.TextView;
 import java.util.Locale;
 
 /**
- * Created by dvb-sky on 2016/7/8.
+ * Created by Terry on 2016/7/8.
+ * email: hqp770@126.com
  */
 public class ActivityB extends BaseActivity implements View.OnClickListener {
     @Override
