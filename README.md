@@ -1,5 +1,7 @@
+# 几种直接退出应用的方式
+
 ## 1. 使用广播方式
-可以创建一个BaseActivity，在其中注册接收处理一个`退出广播`，在其中调用``finish()`方法，finish掉Activity，其他Activity都继承此BaseActivity，当需要退出应用的时候，发送`退出广播`，即可finish全部Activity，进而退出应用。
+可以创建一个BaseActivity，在其中注册接收处理一个`退出广播`，在其中调用`finish()`方法，finish掉Activity，其他Activity都继承此BaseActivity，当需要退出应用的时候，发送`退出广播`，即可finish全部Activity，进而退出应用。
 示例代码如下：
 
 - BaseActivity.java
