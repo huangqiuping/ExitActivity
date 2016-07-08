@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExitActivityDemo</string>
+    <string name="exit">Exit</string>
+    <string name="exit_application">Exit Application</string>
+    <string name="start_activity">Start Activity</string>
+    <string name="start_activity_A">Start Activity A</string>
+    <string name="start_activity_B">Start Activity B</string>
+    <string name="start_activity_C">Start Activity C</string>
+</resources>
